@@ -1,0 +1,2 @@
+#!/bin/bash
+tree . -type d './*' -print | wc -l
